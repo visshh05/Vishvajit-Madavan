@@ -1,92 +1,89 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:0F766E&height=200&section=header&text=Vishvajit%20Madavan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Student&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:B91C1C&height=220&section=header&text=VISHVAJIT%20MADAVAN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20Student%20%7C%20Aspiring%20SOC%20%26%20Web%20Security%20Analyst&descSize=16&descColor=FF3B3B&descAlignY=62" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Aspiring+SOC+%26+Web+Security+Analyst;Web+%26+API+Security+%7C+Network+Security;Learning+on+TryHackMe+%26+HackTheBox;Open+to+Internships+%2F+Junior+Roles" alt="Typing animation" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=640&lines=%3E+Web+%26+API+Security;%3E+SOC+%7C+Threat+Intelligence;%3E+Network+Security+%26+Intrusion+Detection;%3E+Learning+on+TryHackMe+%26+HackTheBox" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Web%20%26%20API%20Security-0A66C2?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOC-1F2937?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Security-0F766E?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20to-Internships%20%2F%20Junior%20Roles-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20API%20Security-B91C1C?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-SOC-B91C1C?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Focus-Network%20Security-B91C1C?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%2F%20Junior%20Roles-FF3B3B?style=flat-square&labelColor=0D1117" />
 </p>
 
-I build small security tools to understand how attacks look from the defender's side, and I practice on hands-on labs. Open to **entry-level Cybersecurity internships and junior roles**.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B91C1C&height=2&section=header" width="100%" />
 
----
+## `> whoami`
 
-## 🧭 Who I Am / How I Learn
+I build small security tools to understand how attacks look from the defender's side, and I practice on hands-on labs.
 
-- 🔨 I learn by building: each project below started as a question like "how would I detect this?" or "what does this service expose?"
-- 🧪 I practice offensive techniques in lab environments to get better at defensive and analyst work.
-- 🎯 My interests are **Web & API Security**, **SOC operations**, and **Network Security**.
+- **Learning style:** I learn by building. Each project below started as a question like "how would I detect this?" or "what does this service expose?"
+- **Approach:** I practice offensive techniques in lab environments to get better at defensive and analyst work.
+- **Interests:** Web & API Security, SOC operations, Network Security.
+- **Goal:** Entry-level Cybersecurity internships and junior roles.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B91C1C&height=2&section=header" width="100%" />
 
-## 🛠️ Projects Built
+## `> projects --built`
 
 | Project | What it does | Tech |
 |---|---|---|
-| 🛰️ **OpenSignal Threat Intelligence Dashboard** | Flask dashboard for on-demand domain, IP, and URL lookups. Pulls reputation from VirusTotal, IP host/service data from Shodan, and certificate-transparency records from crt.sh. | Python, Flask, Requests, external APIs |
-| 🚨 **Linux Network Monitoring & Intrusion Detection System** | IDS demo that captures and analyzes TCP, UDP, and ICMP packets, shows network activity, and raises a **HIGH-severity alert** when one source contacts 8 different TCP ports on a destination within 10 seconds. | Python, Scapy, Flask, SQLite |
-| 🔍 **Network Vulnerability Scanner** | Port and vulnerability scanning script that identifies open ports and potential weaknesses on a local network. | Python, socket, Nmap |
+| **OpenSignal Threat Intelligence Dashboard** | Flask dashboard for on-demand domain, IP, and URL lookups. Pulls reputation from VirusTotal, IP host/service data from Shodan, and certificate-transparency records from crt.sh. | Python, Flask, Requests, external APIs |
+| **Linux Network Monitoring & Intrusion Detection System** | IDS demo that captures and analyzes TCP, UDP, and ICMP packets, shows network activity, and raises a **HIGH-severity alert** when one source contacts 8 different TCP ports on a destination within 10 seconds. | Python, Scapy, Flask, SQLite |
+| **Network Vulnerability Scanner** | Port and vulnerability scanning script that identifies open ports and potential weaknesses on a local network. | Python, socket, Nmap |
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B91C1C&height=2&section=header" width="100%" />
 
-## 🧰 Tools & Stack
+## `> toolkit`
 
-**Security Domains:** Web Application Security · API Security (OWASP Top 10) · VAPT · Network Security
+**Security domains:** Web Application Security · API Security (OWASP Top 10) · VAPT · Network Security
 
-**Tools & Platforms**
+**Tools & platforms**
 
 <p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nessus-00C1DE?style=for-the-badge&logo=tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=FF3B3B" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-161B22?style=for-the-badge&logo=burpsuite&logoColor=FF3B3B" />
+  <img src="https://img.shields.io/badge/Nmap-161B22?style=for-the-badge&logo=nmap&logoColor=FF3B3B" />
+  <img src="https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&logo=wireshark&logoColor=FF3B3B" />
+  <img src="https://img.shields.io/badge/Nessus-161B22?style=for-the-badge&logo=tenable&logoColor=FF3B3B" />
 </p>
 
 **Programming**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,bash,html,css,flask,sqlite" />
+  <img src="https://skillicons.dev/icons?i=py,bash,html,css,flask,sqlite&theme=dark" />
 </p>
 
-**Operating Systems**
+**Operating systems**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B91C1C&height=2&section=header" width="100%" />
 
-## 🎯 Current Focus
+## `> current_focus`
 
-- 🧩 Working through **TryHackMe** and **HackTheBox** labs
-- 🌐 Strengthening web and API security fundamentals (OWASP Top 10)
-- 🛡️ Building SOC-style skills: traffic analysis, alerting, and threat intelligence
+- Working through **TryHackMe** and **HackTheBox** labs
+- Strengthening web and API security fundamentals (OWASP Top 10)
+- Building SOC-style skills: traffic analysis, alerting, and threat intelligence
 
 <p>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/TryHackMe-161B22?style=for-the-badge&logo=tryhackme&logoColor=FF3B3B" />
+  <img src="https://img.shields.io/badge/HackTheBox-161B22?style=for-the-badge&logo=hackthebox&logoColor=FF3B3B" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=B91C1C&height=2&section=header" width="100%" />
 
-## 📫 Let's Connect
+## `> contact`
 
-I'm looking for **entry-level Cybersecurity internships / junior roles**.
+Open to **entry-level Cybersecurity internships / junior roles**.
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=FF3B3B" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=FF3B3B" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:0A66C2&height=120&section=footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B91C1C,100:0D1117&height=110&section=footer" width="100%" />
