@@ -1,89 +1,72 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:059669&height=220&section=header&text=VISHVAJIT%20MADAVAN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20Student%20%7C%20Aspiring%20SOC%20%26%20Web%20Security%20Analyst&descSize=16&descColor=00E58A&descAlignY=62" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00E58A&center=true&vCenter=true&width=640&lines=%3E+Web+%26+API+Security;%3E+SOC+%7C+Threat+Intelligence;%3E+Network+Security+%26+Intrusion+Detection;%3E+Learning+on+TryHackMe+%26+HackTheBox" alt="Typing animation" />
-</p>
+<!-- Animated Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vishvajit+Madavan+%F0%9F%91%8B;Cyber+Security+Student+%7C+Aspiring+SOC+%26+Web+Security+Analyst;Building+Security+Tools+%26+Breaking+Down+Attack+Surfaces" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20API%20Security-059669?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Focus-SOC-059669?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Focus-Network%20Security-059669?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships%20%2F%20Junior%20Roles-00E58A?style=flat-square&labelColor=0D1117" />
-</p>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=059669&height=2&section=header" width="100%" />
+<!-- Status & Focus Badges -->
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internships%20%26%20Junior%20Roles-00F5D4?style=for-the-badge&logo=shield&logoColor=black)
+![Focus](https://img.shields.io/badge/Focus-SOC%20%7C%20Web%20%26%20API%20Security%20%7C%20Network%20Security-1E293B?style=for-the-badge)
 
-## `> whoami`
+</div>
 
-I build small security tools to understand how attacks look from the defender's side, and I practice on hands-on labs.
+---
 
-- **Learning style:** I learn by building. Each project below started as a question like "how would I detect this?" or "what does this service expose?"
-- **Approach:** I practice offensive techniques in lab environments to get better at defensive and analyst work.
-- **Interests:** Web & API Security, SOC operations, Network Security.
-- **Goal:** Entry-level Cybersecurity internships and junior roles.
+## 🛡️ Who I Am & How I Learn
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=059669&height=2&section=header" width="100%" />
+I'm a cyber security student building hands-on defensive and offensive foundations across web applications, networks, and threat analysis. Rather than relying solely on theory, I learn by breaking down attack surfaces, inspecting live network traffic, and building practical security tools in Python and Linux.
 
-## `> projects --built`
+* 🧪 **Hands-on lab practice:** Actively working through offensive and defensive scenarios on **TryHackMe** and **HackTheBox**.
+* 🔍 **Tool-driven investigation:** Comfortable moving between packet captures, web proxies, vulnerability scanners, and custom scripts to verify findings.
+* 📝 **Clear documentation:** Focused on reproducible workflows, readable alerts, and practical remediation notes.
 
-| Project | What it does | Tech |
-|---|---|---|
-| **OpenSignal Threat Intelligence Dashboard** | Flask dashboard for on-demand domain, IP, and URL lookups. Pulls reputation from VirusTotal, IP host/service data from Shodan, and certificate-transparency records from crt.sh. | Python, Flask, Requests, external APIs |
-| **Linux Network Monitoring & Intrusion Detection System** | IDS demo that captures and analyzes TCP, UDP, and ICMP packets, shows network activity, and raises a **HIGH-severity alert** when one source contacts 8 different TCP ports on a destination within 10 seconds. | Python, Scapy, Flask, SQLite |
-| **Network Vulnerability Scanner** | Port and vulnerability scanning script that identifies open ports and potential weaknesses on a local network. | Python, socket, Nmap |
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=059669&height=2&section=header" width="100%" />
+## 🚀 Projects Built
 
-## `> toolkit`
+| Project | What It Does | Tech Stack |
+| :--- | :--- | :--- |
+| 🌐 **OpenSignal Threat Intelligence Dashboard** | Flask web dashboard for on-demand domain, IP, and URL threat-intelligence lookups. Pulls reputation data from **VirusTotal**, host/service intelligence from **Shodan**, and certificate-transparency records from **crt.sh**. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) `Requests` `REST APIs` |
+| 🚨 **Linux Network Monitoring & Intrusion Detection System** | Linux IDS demo that captures and analyzes TCP, UDP, and ICMP traffic, logs and displays network activity, and triggers a **HIGH**-severity alert when one source contacts eight distinct TCP ports on a target within 10 seconds. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) `Scapy` |
+| 🔎 **Network Vulnerability Scanner** | Port and vulnerability scanning script for local networks to identify open ports and potential security weaknesses. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) `socket` `Nmap` |
 
-**Security domains:** Web Application Security · API Security (OWASP Top 10) · VAPT · Network Security
+---
 
-**Tools & platforms**
+## 🧰 Tools & Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=00E58A" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-161B22?style=for-the-badge&logo=burpsuite&logoColor=00E58A" />
-  <img src="https://img.shields.io/badge/Nmap-161B22?style=for-the-badge&logo=nmap&logoColor=00E58A" />
-  <img src="https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&logo=wireshark&logoColor=00E58A" />
-  <img src="https://img.shields.io/badge/Nessus-161B22?style=for-the-badge&logo=tenable&logoColor=00E58A" />
-</p>
+### 🎯 Security Domains
+![Web Security](https://img.shields.io/badge/Web_Application_Security-1E293B?style=for-the-badge&logo=owasp&logoColor=white)
+![API Security](https://img.shields.io/badge/API_Security_(OWASP_Top_10)-1E293B?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![VAPT](https://img.shields.io/badge/VAPT-1E293B?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Network Security](https://img.shields.io/badge/Network_Security-1E293B?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 
-**Programming**
+### 🛠️ Security & Analysis Tools
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0F172A?style=for-the-badge&logo=gnu-bash&logoColor=00F5D4)
+![Nessus](https://img.shields.io/badge/Nessus-00A5B5?style=for-the-badge&logo=tenable&logoColor=white)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,bash,html,css,flask,sqlite&theme=dark" />
-</p>
+### 💻 Languages & Operating Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Operating systems**
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&theme=dark" />
-</p>
+## 🎯 Current Focus
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=059669&height=2&section=header" width="100%" />
+* 🚩 **Labs:** Sharpening practical investigation, enumeration, and web/network security skills on **TryHackMe** and **HackTheBox**.
+* 💼 **Roles Sought:** Entry-level **Cybersecurity Internships** or **Junior SOC / Web Security** roles where I can contribute and grow within an engineering or security team.
 
-## `> current_focus`
-
-- Working through **TryHackMe** and **HackTheBox** labs
-- Strengthening web and API security fundamentals (OWASP Top 10)
-- Building SOC-style skills: traffic analysis, alerting, and threat intelligence
-
-<p>
-  <img src="https://img.shields.io/badge/TryHackMe-161B22?style=for-the-badge&logo=tryhackme&logoColor=00E58A" />
-  <img src="https://img.shields.io/badge/HackTheBox-161B22?style=for-the-badge&logo=hackthebox&logoColor=00E58A" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=059669&height=2&section=header" width="100%" />
-
-## `> contact`
-
-Open to **entry-level Cybersecurity internships / junior roles**.
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=00E58A" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=00E58A" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:059669,100:0D1117&height=110&section=footer" width="100%" />
+<!-- Animated Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:00F5D4&height=90&section=footer" width="100%" />
+</div>
